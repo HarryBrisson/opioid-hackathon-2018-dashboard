@@ -1,0 +1,443 @@
+state,county,employment,demographics,deaths_by_opioids,dispensary_count,year
+AZ,['Maricopa County'],,,457,,2014
+AZ,['Coconino County'],,,427,,2015
+AZ,['Maricopa County'],,,396,,2012
+AZ,['Maricopa County'],,,250,,2015
+AZ,['Maricopa County'],,,217,,2012
+AZ,['Maricopa County'],,,61,,2013
+AZ,['Maricopa County'],,,41,,2015
+AZ,['Maricopa County'],,,316,,2013
+AZ,['Yavapai County'],,,172,,2015
+AZ,['Maricopa County'],,,53,,2014
+AZ,['Pima County'],,,394,,2013
+AZ,['Maricopa County'],,,442,,2014
+AZ,['Maricopa County'],,,209,,2011
+AZ,['Maricopa County'],,,378,,2015
+AZ,['Pinal County'],,,355,,2015
+AZ,['Yuma County'],,,375,,2012
+AZ,['Maricopa County'],,,441,,2015
+AZ,['Maricopa County'],,,186,,2013
+AZ,['Maricopa County'],,,363,,2013
+AZ,['Mohave County'],,,72,,2014
+AZ,['Maricopa County'],,,272,,2015
+AZ,['Maricopa County'],,,229,,2014
+AZ,['Maricopa County'],,,289,,2014
+AZ,['Maricopa County'],,,369,,2014
+AZ,['Pima County'],,,176,,2011
+AZ,['Maricopa County'],,,426,,2014
+AZ,['Maricopa County'],,,276,,2015
+AZ,['Maricopa County'],,,463,,2014
+AZ,['Maricopa County'],,,461,,2015
+AZ,['Pinal County'],,,462,,2015
+AZ,['Maricopa County'],,,29,,2014
+AZ,['Maricopa County'],,,184,,2013
+AZ,['Maricopa County'],,,84,,2012
+AZ,['Maricopa County'],,,250,,2012
+AZ,['Pima County'],,,96,,2015
+AZ,['Coconino County'],,,342,,2014
+AZ,['Yavapai County'],,,59,,2014
+AZ,['Maricopa County'],,,398,,2013
+AZ,['Maricopa County'],,,95,,2014
+AZ,['Maricopa County'],,,115,,2011
+AZ,['Maricopa County'],,,66,,2015
+AZ,['Maricopa County'],,,405,,2011
+AZ,['Maricopa County'],,,75,,2013
+CA,['Los Angeles County'],,,160,,2013
+CA,['San Joaquin County'],,,139,,2014
+CA,['Riverside County'],,,83,,2012
+CA,['Orange County'],,,335,,2014
+CA,['Fresno County'],,,258,,2015
+CA,['Orange County'],,,381,,2015
+CA,[None],,,227,,2014
+CA,[None],,,61,,2012
+CA,['Alameda County'],,,146,,2015
+CA,['Los Angeles County'],,,261,,2011
+CA,['Los Angeles County'],,,360,,2014
+CA,[None],,,135,,2014
+CA,['Los Angeles County'],,,106,,2012
+CA,['San Bernardino County'],,,228,,2013
+CA,['San Francisco County'],,,426,,2015
+CA,['Ventura County'],,,246,,2015
+CA,['Alameda County'],,,242,,2014
+CA,['Sonoma County'],,,221,,2014
+CA,['Santa Cruz County'],,,221,,2011
+CA,['Tulare County'],,,133,,2014
+CA,['San Diego County'],,,435,,2014
+CA,[None],,,37,,2013
+CA,['Riverside County'],,,44,,2011
+CA,['Riverside County'],,,268,,2012
+CA,['Ventura County'],,,444,,2011
+CA,['Los Angeles County'],,,250,,2013
+CA,['Orange County'],,,97,,2012
+CA,['San Mateo County'],,,454,,2011
+CA,['Orange County'],,,492,,2014
+CA,['Santa Barbara County'],,,92,,2013
+CA,['Los Angeles County'],,,237,,2012
+CA,['Orange County'],,,88,,2012
+CA,['San Diego County'],,,177,,2015
+CA,['San Bernardino County'],,,264,,2013
+CA,['Riverside County'],,,307,,2015
+CA,['Los Angeles County'],,,183,,2013
+CA,['Nevada County'],,,183,,2013
+CA,['Riverside County'],,,496,,2012
+CA,['Los Angeles County'],,,111,,2011
+CA,['Sacramento County'],,,366,,2015
+CA,['San Bernardino County'],,,446,,2015
+CA,['Solano County'],,,37,,2014
+CA,['Placer County'],,,263,,2015
+CA,['Riverside County'],,,352,,2013
+CA,['San Bernardino County'],,,52,,2011
+CA,['Los Angeles County'],,,495,,2012
+CA,['Shasta County'],,,121,,2015
+CA,['Contra Costa County'],,,35,,2013
+CA,['San Bernardino County'],,,340,,2015
+CA,['Los Angeles County'],,,124,,2011
+CA,['Orange County'],,,76,,2011
+CA,['San Francisco County'],,,265,,2012
+CA,['Orange County'],,,282,,2015
+CA,['El Dorado County'],,,234,,2011
+CA,['Stanislaus County'],,,197,,2012
+CA,['Los Angeles County'],,,468,,2015
+CA,['Sacramento County'],,,101,,2012
+CA,['San Diego County'],,,79,,2011
+CA,['Los Angeles County'],,,259,,2011
+CA,['Orange County'],,,39,,2011
+CA,['San Bernardino County'],,,194,,2013
+CA,['Kern County'],,,169,,2011
+CA,['Contra Costa County'],,,278,,2013
+CA,['Orange County'],,,363,,2012
+CA,['Orange County'],,,434,,2012
+CA,['Los Angeles County'],,,371,,2015
+CA,['San Luis Obispo County'],,,447,,2012
+CA,[None],,,424,,2011
+CA,['San Diego County'],,,469,,2015
+CA,['San Mateo County'],,,21,,2014
+CA,['Riverside County'],,,389,,2012
+CA,['San Joaquin County'],,,367,,2015
+CA,['Santa Barbara County'],,,138,,2014
+CA,['Los Angeles County'],,,494,,2012
+CA,['Orange County'],,,240,,2013
+CA,['Fresno County'],,,243,,2015
+CA,[None],,,473,,2011
+CA,['San Mateo County'],,,316,,2013
+CA,['Los Angeles County'],,,94,,2012
+CA,['Los Angeles County'],,,310,,2014
+CA,['Los Angeles County'],,,329,,2013
+CA,['Orange County'],,,108,,2012
+CA,['Los Angeles County'],,,88,,2014
+CA,['Solano County'],,,66,,2013
+CA,['Contra Costa County'],,,485,,2015
+CA,['San Diego County'],,,117,,2014
+CA,['Orange County'],,,478,,2012
+CA,[None],,,267,,2014
+CA,['Sacramento County'],,,394,,2014
+CA,['Los Angeles County'],,,207,,2015
+CA,['Kern County'],,,464,,2014
+CA,['Riverside County'],,,315,,2015
+CA,['Alameda County'],,,73,,2012
+CA,['Stanislaus County'],,,200,,2013
+CA,['San Bernardino County'],,,142,,2015
+CA,['Santa Clara County'],,,23,,2014
+CA,['Alameda County'],,,319,,2011
+CA,['San Francisco County'],,,255,,2012
+CA,['Los Angeles County'],,,23,,2012
+CA,['San Mateo County'],,,126,,2012
+CA,['San Mateo County'],,,49,,2013
+CA,['Solano County'],,,357,,2012
+CA,[None],,,137,,2011
+CA,['Butte County'],,,81,,2012
+CA,['San Diego County'],,,214,,2012
+CA,[None],,,79,,2013
+CA,[None],,,354,,2012
+CA,['Fresno County'],,,65,,2011
+CA,['Shasta County'],,,274,,2014
+CA,['Fresno County'],,,433,,2013
+CA,['San Diego County'],,,494,,2011
+CA,['Sacramento County'],,,66,,2012
+CA,['Los Angeles County'],,,487,,2012
+CA,['Monterey County'],,,263,,2013
+CA,['Los Angeles County'],,,488,,2012
+CA,['Santa Clara County'],,,405,,2012
+CA,['Kern County'],,,79,,2013
+CA,['Alameda County'],,,16,,2014
+CA,['Riverside County'],,,106,,2014
+CA,['Orange County'],,,202,,2013
+CA,['Los Angeles County'],,,364,,2012
+CA,['Los Angeles County'],,,469,,2015
+CA,['Alameda County'],,,272,,2013
+CA,['Santa Barbara County'],,,330,,2013
+CA,['San Bernardino County'],,,269,,2014
+CA,['Sacramento County'],,,198,,2014
+CA,['Contra Costa County'],,,145,,2011
+CA,[None],,,354,,2012
+CA,['Shasta County'],,,279,,2014
+CA,['Orange County'],,,246,,2012
+CA,['San Mateo County'],,,149,,2013
+CA,['Santa Clara County'],,,29,,2012
+CA,['Los Angeles County'],,,367,,2014
+CA,['San Diego County'],,,462,,2014
+CA,['Los Angeles County'],,,78,,2015
+CA,['Alameda County'],,,25,,2011
+CA,['Fresno County'],,,438,,2012
+CA,['Los Angeles County'],,,487,,2015
+CA,['Los Angeles County'],,,480,,2011
+CA,['San Bernardino County'],,,92,,2014
+CA,['Los Angeles County'],,,48,,2014
+CA,['Los Angeles County'],,,409,,2013
+CA,['Orange County'],,,352,,2013
+CA,['Los Angeles County'],,,117,,2012
+CA,['Sonoma County'],,,148,,2014
+CA,['Los Angeles County'],,,184,,2013
+CA,['San Francisco County'],,,212,,2012
+CA,['Riverside County'],,,218,,2014
+CA,['Santa Clara County'],,,185,,2012
+CA,['Alameda County'],,,353,,2015
+CA,['Los Angeles County'],,,234,,2013
+CA,['San Diego County'],,,91,,2013
+CA,['San Diego County'],,,371,,2013
+CA,['Ventura County'],,,52,,2014
+CA,['Los Angeles County'],,,221,,2012
+CA,['Riverside County'],,,223,,2013
+CA,['Solano County'],,,372,,2015
+CA,['Alameda County'],,,261,,2011
+CA,['Riverside County'],,,321,,2011
+CA,['San Francisco County'],,,112,,2015
+CA,[None],,,15,,2011
+CA,['Alameda County'],,,416,,2015
+CA,['San Francisco County'],,,360,,2013
+CA,['Orange County'],,,155,,2012
+CA,['Santa Clara County'],,,193,,2015
+CA,['Orange County'],,,65,,2013
+CA,['Alameda County'],,,345,,2014
+CA,['Los Angeles County'],,,349,,2012
+CA,['Los Angeles County'],,,53,,2012
+CA,['Los Angeles County'],,,202,,2014
+CA,['San Francisco County'],,,397,,2012
+CA,['San Luis Obispo County'],,,325,,2015
+CA,['Orange County'],,,53,,2013
+CA,['Los Angeles County'],,,116,,2014
+CA,['San Diego County'],,,118,,2013
+CA,['Riverside County'],,,356,,2013
+CA,['Riverside County'],,,423,,2011
+CA,['Fresno County'],,,148,,2011
+CA,['San Francisco County'],,,97,,2012
+CA,['Orange County'],,,333,,2012
+CA,[None],,,202,,2015
+CA,[None],,,300,,2012
+CO,['Boulder County'],,,195,,2013
+CO,['Denver County'],,,320,,2012
+CO,['Boulder County'],,,330,,2013
+CO,['Pueblo County'],,,234,,2011
+CO,['El Paso County'],,,57,,2014
+CO,['Denver County'],,,391,,2012
+CO,['El Paso County'],,,63,,2013
+CO,[None],,,301,,2014
+CO,['Jefferson County'],,,296,,2015
+CO,['Denver County'],,,57,,2015
+CO,['Denver County'],,,308,,2014
+CO,['Ouray County'],,,271,,2015
+CO,['Arapahoe County'],,,66,,2013
+CO,['Jefferson County'],,,295,,2014
+CT,['Hartford County'],,,265,,2013
+CT,[None],,,291,,2014
+CT,['Hartford County'],,,393,,2013
+CT,['Fairfield County'],,,440,,2015
+CT,['Middlesex County'],,,282,,2012
+CT,['Fairfield County'],,,473,,2014
+CT,['Fairfield County'],,,201,,2012
+DE,['New Castle County'],,,190,,2013
+DE,['New Castle County'],,,448,,2013
+DE,['New Castle County'],,,419,,2011
+FL,['Miami-Dade County'],,,266,,2012
+FL,['Hillsborough County'],,,10,,2015
+FL,['Broward County'],,,287,,2013
+FL,['Pinellas County'],,,278,,2013
+FL,['Palm Beach County'],,,271,,2014
+FL,['Seminole County'],,,323,,2014
+FL,['Pinellas County'],,,90,,2011
+FL,['Lee County'],,,91,,2013
+FL,['Collier County'],,,163,,2011
+FL,['Duval County'],,,72,,2013
+FL,['Broward County'],,,351,,2014
+FL,['Pinellas County'],,,323,,2015
+FL,['Pinellas County'],,,438,,2014
+FL,['Sarasota County'],,,152,,2013
+FL,['Brevard County'],,,432,,2014
+FL,['Palm Beach County'],,,203,,2015
+FL,['Palm Beach County'],,,124,,2012
+FL,['Broward County'],,,65,,2013
+FL,['Lee County'],,,438,,2011
+IL,['Will County'],,,18,,2014
+IL,['Macon County'],,,234,,2013
+IL,['Cook County'],,,32,,2013
+IL,['Cook County'],,,479,,2015
+IL,['DuPage County'],,,194,,2014
+IL,['Tazewell County'],,,208,,2015
+IL,['Winnebago County'],,,435,,2011
+IL,['Kane County'],,,101,,2015
+IL,['Champaign County'],,,82,,2015
+IL,['Sangamon County'],,,388,,2012
+IL,['Cook County'],,,469,,2015
+IL,['Grundy County'],,,453,,2012
+IL,['Will County'],,,31,,2015
+IL,['Cook County'],,,388,,2012
+IL,['Peoria County'],,,485,,2013
+IL,['Cook County'],,,86,,2013
+IL,['Shelby County'],,,202,,2013
+IL,['Cook County'],,,335,,2011
+ME,['Cumberland County'],,,173,,2012
+ME,['Penobscot County'],,,272,,2013
+ME,['Kennebec County'],,,87,,2014
+ME,['York County'],,,29,,2012
+ME,['Cumberland County'],,,273,,2015
+ME,['Cumberland County'],,,216,,2012
+ME,['Kennebec County'],,,115,,2015
+MD,['Baltimore County'],,,159,,2011
+MD,[None],,,400,,2013
+MD,['Anne Arundel County'],,,12,,2015
+MD,['Charles County'],,,89,,2014
+MD,['Howard County'],,,44,,2015
+MD,['Montgomery County'],,,259,,2014
+MD,['Anne Arundel County'],,,398,,2011
+MD,['Montgomery County'],,,342,,2014
+MD,['Montgomery County'],,,40,,2011
+MD,['Montgomery County'],,,29,,2011
+MD,['Howard County'],,,140,,2013
+MD,['Baltimore city'],,,270,,2012
+MD,[None],,,122,,2014
+MD,['Montgomery County'],,,159,,2012
+MD,['Montgomery County'],,,49,,2011
+MD,[None],,,39,,2015
+MD,['Montgomery County'],,,251,,2011
+MD,['Baltimore city'],,,241,,2012
+MA,['Hampden County'],,,145,,2014
+MA,['Norfolk County'],,,76,,2015
+MA,['Berkshire County'],,,464,,2013
+MA,['Suffolk County'],,,183,,2013
+MA,['Middlesex County'],,,337,,2013
+MA,['Norfolk County'],,,479,,2014
+MA,['Plymouth County'],,,68,,2015
+MA,['Barnstable County'],,,246,,2012
+MA,['Bristol County'],,,363,,2015
+MA,['Plymouth County'],,,128,,2013
+MA,['Berkshire County'],,,284,,2013
+MA,['Hampden County'],,,200,,2015
+MA,['Middlesex County'],,,136,,2015
+MA,['Middlesex County'],,,197,,2014
+MA,['Bristol County'],,,20,,2014
+MA,['Hampshire County'],,,125,,2014
+MA,['Bristol County'],,,374,,2011
+MA,['Middlesex County'],,,51,,2012
+MA,['Norfolk County'],,,293,,2014
+MA,['Middlesex County'],,,301,,2011
+MA,['Barnstable County'],,,475,,2011
+MA,['Essex County'],,,11,,2014
+MA,['Worcester County'],,,46,,2014
+MA,['Norfolk County'],,,337,,2015
+MA,['Worcester County'],,,408,,2015
+MA,['Essex County'],,,497,,2011
+MA,['Essex County'],,,450,,2011
+MI,['Macomb County'],,,46,,2011
+MI,['Macomb County'],,,484,,2014
+MI,['Kent County'],,,304,,2015
+MI,['Oakland County'],,,123,,2013
+MI,['Kent County'],,,186,,2015
+MI,['Wayne County'],,,186,,2014
+MI,['Wayne County'],,,300,,2012
+MI,['Macomb County'],,,227,,2015
+MI,['Oakland County'],,,268,,2015
+MI,['Macomb County'],,,147,,2013
+MT,['Flathead County'],,,276,,2014
+MT,['Yellowstone County'],,,308,,2013
+NV,['Washoe County'],,,132,,2011
+NV,['Clark County'],,,421,,2013
+NV,['Clark County'],,,300,,2014
+NV,['Clark County'],,,89,,2012
+NV,['Clark County'],,,445,,2012
+NV,['Clark County'],,,186,,2011
+NV,['Clark County'],,,101,,2012
+NV,['Clark County'],,,407,,2014
+NV,['Clark County'],,,38,,2015
+NV,['Clark County'],,,86,,2012
+NV,['Clark County'],,,331,,2013
+NV,['Clark County'],,,49,,2014
+NV,['Clark County'],,,25,,2014
+NV,['Washoe County'],,,380,,2015
+NV,['Clark County'],,,465,,2015
+NV,['Clark County'],,,34,,2015
+NV,['Clark County'],,,269,,2014
+NJ,['Burlington County'],,,12,,2014
+NY,['Kings County'],,,258,,2012
+NY,[None],,,93,,2012
+NY,['New York County'],,,31,,2012
+NY,['Queens County'],,,364,,2015
+NY,['Kings County'],,,265,,2013
+NY,['Erie County'],,,237,,2011
+NY,['New York County'],,,285,,2011
+NY,['Bronx County'],,,459,,2012
+NY,['Nassau County'],,,41,,2012
+NY,['New York County'],,,498,,2012
+NY,['Westchester County'],,,483,,2012
+NY,['Monroe County'],,,326,,2011
+NY,['New York County'],,,288,,2014
+NY,['New York County'],,,63,,2014
+OH,['Summit County'],,,488,,2015
+OH,[None],,,408,,2015
+OH,[None],,,164,,2011
+OH,['Hamilton County'],,,456,,2011
+OH,['Athens County'],,,248,,2011
+OH,[None],,,400,,2013
+OH,['Franklin County'],,,181,,2012
+OH,['Lucas County'],,,275,,2015
+OH,['Portage County'],,,312,,2014
+OH,['Montgomery County'],,,130,,2015
+OH,['Campbell County'],,,457,,2012
+OH,[None],,,380,,2015
+OR,['Multnomah County'],,,82,,2014
+OR,['Lane County'],,,195,,2015
+OR,['Multnomah County'],,,189,,2011
+OR,['Deschutes County'],,,457,,2011
+OR,['Tillamook County'],,,235,,2011
+OR,['Linn County'],,,54,,2012
+OR,['Multnomah County'],,,265,,2013
+OR,['Jackson County'],,,431,,2015
+OR,['Multnomah County'],,,185,,2013
+OR,['Lane County'],,,375,,2012
+OR,['Yamhill County'],,,155,,2014
+OR,['Washington County'],,,114,,2012
+OR,['Multnomah County'],,,265,,2013
+OR,['Jackson County'],,,209,,2014
+OR,['Marion County'],,,65,,2015
+OR,['Josephine County'],,,333,,2012
+OR,['Douglas County'],,,102,,2012
+OR,['Multnomah County'],,,280,,2011
+OR,['Multnomah County'],,,291,,2014
+PA,['Delaware County'],,,253,,2013
+PA,['Berks County'],,,44,,2012
+PA,['Allegheny County'],,,21,,2012
+PA,['Erie County'],,,316,,2013
+PA,['Northampton County'],,,208,,2012
+PA,['Montgomery County'],,,69,,2012
+PA,['Lawrence County'],,,140,,2015
+PA,['Centre County'],,,237,,2013
+PA,['Lehigh County'],,,63,,2011
+PA,['Montgomery County'],,,263,,2013
+PA,['Philadelphia County'],,,490,,2011
+PA,[None],,,441,,2011
+PA,['Lancaster County'],,,482,,2012
+PA,[None],,,475,,2012
+RI,['Providence County'],,,289,,2014
+WA,['Benton County'],,,232,,2015
+WA,['King County'],,,217,,2012
+WA,['Skagit County'],,,94,,2013
+WA,[None],,,317,,2015
+WA,['Cowlitz County'],,,23,,2015
+WA,['Kittitas County'],,,309,,2013
+WA,['Benton County'],,,448,,2013
+WA,['Pierce County'],,,95,,2011
+WA,['Benton County'],,,374,,2014
+WA,['Pierce County'],,,325,,2015
+WA,['King County'],,,468,,2015
+WA,['King County'],,,312,,2013
+WA,['Clark County'],,,165,,2015
+DC,['District of Columbia'],,,487,,2012

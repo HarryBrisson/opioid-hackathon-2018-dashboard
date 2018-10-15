@@ -1,0 +1,46 @@
+* {
+	font-family: Open Sans;
+}
+
+.wrapper {
+	display: grid;
+	grid-template-columns: 1fr 3fr 1fr;
+	grid-template-rows: 4fr 1fr;
+}
+
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 2px;
+}
+
+.firstViz {
+	position: absolute;
+	top:10%;
+	left:20%;
+}
+
+.block {
+	height: 600px;
+	width: 100%;
+}
+
+
+.bars:hover {
+	opacity: .75;
+}
+
+.barToolTip {
+    position: absolute;
+    display: none;
+	min-width:35px;
+	height: auto;
+	background: none repeat scroll 0 0 white;
+	border: 0 none;
+	border-radius: 8px 8px 8px 8px;
+	box-shadow: -3px 3px 15px #888888;
+	color: gray;
+	font: 18px Archivo Narrow;
+	padding: 5px;
+	text-align: center;
+}

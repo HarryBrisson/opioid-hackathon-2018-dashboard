@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link rel = "stylesheet" href="../css/style.css">
+	 <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Open+Sans">
+          <script src="../js/index.js"></script>
+          <script src="https://d3js.org/d3.v4.min.js"></script>
+	<title>THE OPIOID HACKATHON</title>
+</head>
+<body>
+	<div class="wrapper">
+	<center>THE OPIOID HACKATHON</center>
+	<select id="county">
+	<option>Ada County</option>
+<option>Adams County</option>
+<option>Aiken County</option>
+<option>Alachua County</option>
+<option>Alameda County</option>
+<option>Albany County</option>
+<option>Allegan County</option>
+<option>Allegheny County</option>
+<option>Allen County</option>
+<option>Anchorage Borough</option>
+<option>Anderson County</option>
+<option>Androscoggin County</option>
+<option>Anne Arundel County</option>
+<option>Anoka County</option>
+<option>Arapahoe County</option>
+<option>Armstrong County</option>
+<option>Ashtabula County</option>
+<option>Atlantic County</option>
+<option>Baldwin County</option>
+<option>Baltimore County</option>
+<option>Baltimore city</option>
+<option>Barnstable County</option>
+<option>Bartow County</option>
+<option>Bay County</option>
+<option>Beaver County</option>
+<option>Bell County</option>
+<option>Benton County</option>
+<option>Bergen County</option>
+<option>Berkeley County</option>
+<option>Berks County</option>
+<option>Berkshire County</option>
+<option>Bernalillo County</option>
+<option>Bexar County</option>
+<option>Blount County</option>
+<option>Boone County</option>
+<option>Boulder County</option>
+<option>Boyd County</option>
+<option>Bradley County</option>
+<option>Brazoria County</option>
+<option>Brevard County</option>
+<option>Bristol County</option>
+<option>Bronx County</option>
+<option>Broome County</option>
+<option>Broward County</option>
+<option>Brown County</option>
+<option>Brunswick County</option>
+<option>Bucks County</option>
+<option>Bullitt County</option>
+<option>Buncombe County</option>
+<option>Burke County</option>
+<option>Burlington County</option>
+<option>Butler County</option>
+<option>Butte County</option>
+<option>Cabarrus County</option>
+<option>Cabell County</option>
+<option>Caldwell County</option>
+<option>Calhoun County</option>
+<option>Cambria County</option>
+<option>Campbell County</option>
+<option>Canadian County</option>
+<option>Cape May County</option>
+<option>Carbon County</option>
+<option>Carroll County</option>
+<option>Carson City</option>
+<option>Carter County</option>
+<option>Carteret County</option>
+<option>Catawba County</option>
+<option>Cecil County</option>
+<option>Champaign County</option>
+<option>Charles County</option>
+<option>Charleston County</option>
+<option>Chatham County</option>
+<option>Cheatham County</option>
+<option>Cherokee County</option>
+<option>Chesapeake city</option>
+<option>Chesterfield County</option>
+<option>Chittenden County</option>
+<option>Citrus County</option>
+<option>Clackamas County</option>
+<option>Clark County</option>
+<option>Clay County</option>
+<option>Clayton County</option>
+<option>Clermont County</option>
+<option>Cleveland County</option>
+<option>Cobb County</option>
+<option>Cochise County</option>
+<option>Collier County</option>
+<option>Collin County</option>
+<option>Comanche County</option>
+<option>Contra Costa County</option>
+<option>Cook County</option>
+<option>Cowlitz County</option>
+<option>Craven County</option>
+<option>Crawford County</option>
+<option>Creek County</option>
+<option>Cumberland County</option>
+<option>Cuyahoga County</option>
+<option>Dakota County</option>
+<option>Dallas County</option>
+<option>Dane County</option>
+<option>Dauphin County</option>
+<option>Davidson County</option>
+<option>Daviess County</option>
+<option>Davis County</option>
+<option>DeKalb County</option>
+<option>DeSoto County</option>
+<option>Delaware County</option>
+<option>Denton County</option>
+<option>Denver County</option>
+<option>Dickson County</option>
+<option>District of Columbia</option>
+<option>Dona Ana County</option>
+<option>Dorchester County</option>
+<option>Douglas County</option>
+<option>DuPage County</option>
+<option>Durham County</option>
+<option>Dutchess County</option>
+<option>Duval County</option>
+<option>East Baton Rouge Parish</option>
+<option>Eaton County</option>
+<option>El Paso County</option>
+<option>Erie County</option>
+<option>Escambia County</option>
+<option>Essex County</option>
+<option>Fairfax County</option>
+<option>Fairfield County</option>
+<option>Fayette County</option>
+<option>Floyd County</option>
+<option>Forsyth County</option>
+<option>Fort Bend County</option>
+<option>Franklin County</option>
+<option>Frederick County</option>
+<option>Fremont County</option>
+<option>Fresno County</option>
+<option>Fulton County</option>
+<option>Galveston County</option>
+<option>Garland County</option>
+<option>Gaston County</option>
+<option>Genesee County</option>
+<option>Grady County</option>
+<option>Greene County</option>
+<option>Greenville County</option>
+<option>Guilford County</option>
+<option>Gwinnett County</option>
+<option>Hamblen County</option>
+<option>Hamilton County</option>
+<option>Hampden County</option>
+<option>Hampshire County</option>
+<option>Hampton city</option>
+<option>Hanover County</option>
+<option>Harford County</option>
+<option>Harris County</option>
+<option>Harrison County</option>
+<option>Hartford County</option>
+<option>Hawkins County</option>
+<option>Henderson County</option>
+<option>Hennepin County</option>
+<option>Henrico County</option>
+<option>Henry County</option>
+<option>Hernando County</option>
+<option>Hillsborough County</option>
+<option>Honolulu County</option>
+<option>Hopkins County</option>
+<option>Horry County</option>
+<option>Howard County</option>
+<option>Hudson County</option>
+<option>Humboldt County</option>
+<option>Indiana County</option>
+<option>Ingham County</option>
+<option>Iredell County</option>
+<option>Iron County</option>
+<option>Jackson County</option>
+<option>Jefferson County</option>
+<option>Jefferson Parish</option>
+<option>Johnson County</option>
+<option>Johnston County</option>
+<option>Kalamazoo County</option>
+<option>Kanawha County</option>
+<option>Kane County</option>
+<option>Kankakee County</option>
+<option>Kenai Peninsula Borough</option>
+<option>Kennebec County</option>
+<option>Kenosha County</option>
+<option>Kent County</option>
+<option>Kenton County</option>
+<option>Kern County</option>
+<option>King County</option>
+<option>Kings County</option>
+<option>Kitsap County</option>
+<option>Knox County</option>
+<option>LaSalle County</option>
+<option>Lackawanna County</option>
+<option>Lake County</option>
+<option>Lancaster County</option>
+<option>Lane County</option>
+<option>Larimer County</option>
+<option>Lawrence County</option>
+<option>Lee County</option>
+<option>Lehigh County</option>
+<option>Lexington County</option>
+<option>Lincoln County</option>
+<option>Linn County</option>
+<option>Litchfield County</option>
+<option>Livingston County</option>
+<option>Logan County</option>
+<option>Lorain County</option>
+<option>Los Angeles County</option>
+<option>Loudoun County</option>
+<option>Lucas County</option>
+<option>Macomb County</option>
+<option>Madera County</option>
+<option>Madison County</option>
+<option>Mahoning County</option>
+<option>Manatee County</option>
+<option>Maricopa County</option>
+<option>Marion County</option>
+<option>Matanuska-Susitna Borough</option>
+<option>Maury County</option>
+<option>McCracken County</option>
+<option>McDowell County</option>
+<option>McHenry County</option>
+<option>Mecklenburg County</option>
+<option>Medina County</option>
+<option>Merced County</option>
+<option>Mercer County</option>
+<option>Merrimack County</option>
+<option>Miami-Dade County</option>
+<option>Middlesex County</option>
+<option>Milwaukee County</option>
+<option>Mingo County</option>
+<option>Mobile County</option>
+<option>Mohave County</option>
+<option>Monmouth County</option>
+<option>Monroe County</option>
+<option>Monterey County</option>
+<option>Montgomery County</option>
+<option>Morris County</option>
+<option>Multnomah County</option>
+<option>Muskegon County</option>
+<option>Muskogee County</option>
+<option>Nacogdoches County</option>
+<option>Nassau County</option>
+<option>New Castle County</option>
+<option>New Hanover County</option>
+<option>New Haven County</option>
+<option>New London County</option>
+<option>New York County</option>
+<option>Newport News city</option>
+<option>Niagara County</option>
+<option>Nicholas County</option>
+<option>Norfolk County</option>
+<option>Norfolk city</option>
+<option>Northampton County</option>
+<option>Nueces County</option>
+<option>Nye County</option>
+<option>Oakland County</option>
+<option>Ocean County</option>
+<option>Oconee County</option>
+<option>Okaloosa County</option>
+<option>Oklahoma County</option>
+<option>Oneida County</option>
+<option>Onondaga County</option>
+<option>Onslow County</option>
+<option>Orange County</option>
+<option>Orleans Parish</option>
+<option>Osceola County</option>
+<option>Oswego County</option>
+<option>Ottawa County</option>
+<option>Palm Beach County</option>
+<option>Pasco County</option>
+<option>Passaic County</option>
+<option>Paulding County</option>
+<option>Peoria County</option>
+<option>Philadelphia County</option>
+<option>Pickens County</option>
+<option>Pierce County</option>
+<option>Pike County</option>
+<option>Pima County</option>
+<option>Pinal County</option>
+<option>Pinellas County</option>
+<option>Pitt County</option>
+<option>Plymouth County</option>
+<option>Polk County</option>
+<option>Pontotoc County</option>
+<option>Portage County</option>
+<option>Porter County</option>
+<option>Portsmouth city</option>
+<option>Prince George's County</option>
+<option>Prince William County</option>
+<option>Providence County</option>
+<option>Pueblo County</option>
+<option>Pulaski County</option>
+<option>Putnam County</option>
+<option>Queens County</option>
+<option>Racine County</option>
+<option>Raleigh County</option>
+<option>Ramsey County</option>
+<option>Randolph County</option>
+<option>Richland County</option>
+<option>Richmond County</option>
+<option>Richmond city</option>
+<option>Rio Arriba County</option>
+<option>Riverside County</option>
+<option>Roane County</option>
+<option>Roanoke city</option>
+<option>Robertson County</option>
+<option>Robeson County</option>
+<option>Rock County</option>
+<option>Rockingham County</option>
+<option>Rockland County</option>
+<option>Ross County</option>
+<option>Rowan County</option>
+<option>Russell County</option>
+<option>Rutherford County</option>
+<option>Sacramento County</option>
+<option>Salt Lake County</option>
+<option>San Bernardino County</option>
+<option>San Diego County</option>
+<option>San Francisco County</option>
+<option>San Joaquin County</option>
+<option>San Luis Obispo County</option>
+<option>San Mateo County</option>
+<option>Sandoval County</option>
+<option>Sangamon County</option>
+<option>Santa Barbara County</option>
+<option>Santa Clara County</option>
+<option>Santa Cruz County</option>
+<option>Santa Fe County</option>
+<option>Santa Rosa County</option>
+<option>Sarasota County</option>
+<option>Saratoga County</option>
+<option>Schuylkill County</option>
+<option>Scioto County</option>
+<option>Scott County</option>
+<option>Sebastian County</option>
+<option>Sedgwick County</option>
+<option>Seminole County</option>
+<option>Sequoyah County</option>
+<option>Sevier County</option>
+<option>Shasta County</option>
+<option>Shawnee County</option>
+<option>Shelby County</option>
+<option>Skagit County</option>
+<option>Snohomish County</option>
+<option>Solano County</option>
+<option>Somerset County</option>
+<option>Sonoma County</option>
+<option>Spartanburg County</option>
+<option>Spokane County</option>
+<option>Spotsylvania County</option>
+<option>St. Charles County</option>
+<option>St. Clair County</option>
+<option>St. Johns County</option>
+<option>St. Joseph County</option>
+<option>St. Louis County</option>
+<option>St. Louis city</option>
+<option>St. Lucie County</option>
+<option>St. Tammany Parish</option>
+<option>Stanislaus County</option>
+<option>Stark County</option>
+<option>Stephens County</option>
+<option>Strafford County</option>
+<option>Suffolk County</option>
+<option>Sullivan County</option>
+<option>Summit County</option>
+<option>Sumner County</option>
+<option>Surry County</option>
+<option>Sussex County</option>
+<option>Tarrant County</option>
+<option>Tazewell County</option>
+<option>Thurston County</option>
+<option>Tolland County</option>
+<option>Tooele County</option>
+<option>Travis County</option>
+<option>Trumbull County</option>
+<option>Tulare County</option>
+<option>Tulsa County</option>
+<option>Ulster County</option>
+<option>Union County</option>
+<option>Utah County</option>
+<option>Valencia County</option>
+<option>Vanderburgh County</option>
+<option>Ventura County</option>
+<option>Virginia Beach city</option>
+<option>Volusia County</option>
+<option>Wagoner County</option>
+<option>Wake County</option>
+<option>Warren County</option>
+<option>Washington County</option>
+<option>Washoe County</option>
+<option>Washtenaw County</option>
+<option>Waukesha County</option>
+<option>Wayne County</option>
+<option>Webb County</option>
+<option>Weber County</option>
+<option>Weld County</option>
+<option>Westchester County</option>
+<option>Westmoreland County</option>
+<option>Whatcom County</option>
+<option>Whitley County</option>
+<option>Wilkes County</option>
+<option>Will County</option>
+<option>Williamson County</option>
+<option>Wilson County</option>
+<option>Windham County</option>
+<option>Winnebago County</option>
+<option>Wood County</option>
+<option>Worcester County</option>
+<option>Wyoming County</option>
+<option>Yakima County</option>
+<option>Yavapai County</option>
+<option>York County</option>
+</select>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</div>
+<div class="block"><br /></div>
+<div id='secondViz'></div>
+<script>
+	createFirstViz();
+	createSecondViz();
+</script>
+</body>
+</html>
